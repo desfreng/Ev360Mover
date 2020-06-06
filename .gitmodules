@@ -1,6 +1,8 @@
 [submodule "Ev360Remote"]
 	path = Ev360Remote
 	url = git@github.com:desfreng/Ev360Remote.git
+	branch = master
 [submodule "Ev360Server"]
 	path = Ev360Server
 	url = git@github.com:desfreng/Ev360Server.git
+	branch = master
